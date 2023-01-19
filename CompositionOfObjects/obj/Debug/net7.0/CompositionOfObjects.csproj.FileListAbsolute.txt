@@ -1,0 +1,5 @@
+G:\Udemy\Curso C#\Seção 9\CompositionOfObjects\CompositionOfObjects\obj\Debug\net7.0\CompositionOfObjects.csproj.AssemblyReference.cache
+G:\Udemy\Curso C#\Seção 9\CompositionOfObjects\CompositionOfObjects\obj\Debug\net7.0\CompositionOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+G:\Udemy\Curso C#\Seção 9\CompositionOfObjects\CompositionOfObjects\obj\Debug\net7.0\CompositionOfObjects.AssemblyInfoInputs.cache
+G:\Udemy\Curso C#\Seção 9\CompositionOfObjects\CompositionOfObjects\obj\Debug\net7.0\CompositionOfObjects.AssemblyInfo.cs
+G:\Udemy\Curso C#\Seção 9\CompositionOfObjects\CompositionOfObjects\obj\Debug\net7.0\CompositionOfObjects.csproj.CoreCompileInputs.cache
